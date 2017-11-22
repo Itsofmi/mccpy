@@ -72,6 +72,8 @@ Do you get indications for equiprobability?
 
 4. Explain in one sentence, and in your own words: How does the algorithm direct_disks_box.py implement equiprobability?
 
+Избраните точки са равномерно разпределени, следователно всички комбинации са равнмерно разпределени.
+
 NB: Note that the combination of the four little red boxes makes a single red box in 8-dimensional configuration space. We are measuring the statistical weight of three arbitrary points (corresponding to legal configurations) in this space.
 
 ## A2 (continued):
